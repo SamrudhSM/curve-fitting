@@ -1,0 +1,20 @@
+{
+  "theta_deg": 28.118423019509166,
+  "M": 0.021388957371412873,
+  "X": 54.89972889763024,
+  "final_L1_loss": 37865.09383757622,
+  "seed_params_from_grid": [
+    28.0,
+    0.020000000000000004,
+    54.0
+  ],
+  "grid_best_loss": 37884.63216408647,
+  "rand_best_params": [
+    28.108889052398965,
+    0.020991270812427118,
+    54.81315127276448
+  ],
+  "rand_best_loss": 37865.56582228684,
+  "scipy_success": true,
+  "scipy_message": "Optimization terminated successfully."
+}
