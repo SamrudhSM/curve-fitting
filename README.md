@@ -37,3 +37,5 @@ After optimization, I plotted both:
 the real vs predicted curve, and
 
 the per-point L1 error over t. This helped confirm that the fitted parameters indeed matched the data.
+
+https://www.desmos.com/calculator/qfrv75cfgc
